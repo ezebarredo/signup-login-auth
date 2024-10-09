@@ -1,12 +1,15 @@
-<h2>Basic Sign-up & Login Form authentication/authorization</h2>h3
+<h3>Basic Sign-up & Login Form Authentication/Authorization</h3>
 
-React + TypeScript + Vite + Express + Zustand 
+<p><strong>React + TypeScript + Vite + Express + Zustand</strong></p>
 
-This project is a simple implementation of sign-up and login forms using modern web development technologies. It demonstrates a full-stack approach with client-side rendering in React (TypeScript) and backend API services powered by ExpressJS. State management on the front end is handled by Zustand, ensuring a clean and efficient flow for user authentication and authorization.
+<p>This project is a simple implementation of sign-up and login forms. It demonstrates a full-stack approach with client-side rendering in React (TypeScript) and backend API services powered by ExpressJS. 
+  State management on the front end is handled by Zustand, ensuring a clean and efficient flow for user authentication and authorization.</p>
 
-Features:
-React and TypeScript on the front end for type-safe, scalable development.
-Vite as the build tool, offering fast development and optimized production builds.
-ExpressJS for backend API creation, handling authentication and authorization.
-Zustand for simple and lightweight global state management on the client side.
-Secure User Authentication: Full authentication and authorization logic.
+<h4>Features:</h4>
+<ul>
+  <li><strong>React</strong> and <strong>TypeScript</strong> on the front end for type-safe, scalable development.</li>
+  <li><strong>Vite</strong> as the build tool, offering fast development and optimized production builds.</li>
+  <li><strong>ExpressJS</strong> for backend API creation, handling authentication and authorization.</li>
+  <li><strong>Zustand</strong> for simple and lightweight global state management on the client side.</li>
+  <li><strong>Secure User Authentication</strong>: Full authentication and authorization logic.</li>
+</ul>
